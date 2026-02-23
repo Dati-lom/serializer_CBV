@@ -1,11 +1,4 @@
-"""
-დავალება 2 – Class-Based Views (APIView)
 
-შექმენით APIView კლასები შემდეგი ენდპოინთებისთვის.
-ყოველ View-ში გამოიყენეთ შესაბამისი Serializer და Model.
-
-
-"""
 
 from rest_framework.views import APIView
 from rest_framework.response import Response
